@@ -2,21 +2,22 @@
 
 
 <h1 align="center">Hi there👋, I'm Nabin</h1>
-<h3 align="center">A Passionate enthusiastic Self taught programmer to become a Full stack developer.</h3>
+<h3 align="center">Talk less do more</h3>
+<h3 align="center">A Passionate enthusiastic Self taught programmer trying to become a Full stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabwinsaud&label=Profile%20views&color=0e75b6&style=flat" alt="nabwinsaud" /> </p>
 
-- 🔭 I’m currently working on **MERN STACK**
+- 🔭 I’m currently working on **Modern technology such as React tailwindcss ....**
 - 🔭 I learn a lot of languages but main focus is on  **Front and backend technologies**
 - 🌱 I’m currently learning **NEXTJS ,MERN STACK (MONGODB,EXPRESS,REACT,NODEJS)**
 
-- 📝 I regularly write articles on [nabinsaud.com.np](nabinsaud.com.np)
+- 📝my website [website](nabinsaud.com.np)
 
 - 💬 Ask me about **react express node.js**
 
 - 📫 How to reach me **nabinsaud2059@gmail.com**
 
-- ⚡ Fun fact **i am passionate about new and trending technology .**
+- ⚡ Fun fact ** passionate about new and trending technology .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
