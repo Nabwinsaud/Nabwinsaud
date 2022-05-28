@@ -11,9 +11,9 @@
 - 🔭 I learn a lot of languages but main focus is on  **Front and backend technologies**
 - 🌱 I’m currently learning **NEXTJS ,MERN STACK (MONGODB,EXPRESS,REACT,NODEJS)**
 
-- 📝my website [website](nabinsaud.com.np)
+- 📝my [website](nabinsaud.com.np)
 
-- 💬 Ask me about **react express node.js**
+- 💬 Ask me about **Programming coding and technology**
 
 - 📫 How to reach me **nabinsaud2059@gmail.com**
 
