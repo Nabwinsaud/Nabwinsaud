@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Modern technology such as React ,Nodejs ,TypesScript ,MongoDB , MySql, ....**
 - 🔭 I learn a lot of languages but main focus is on  **Front and backend technologies**
-- 🌱 I’m currently learning and explpring **Flutter ,MERN STACK (MONGODB/MYSQL,EXPRESS,REACT,NODEJS)**
+- 🌱 I’m currently learning and explpring **MERN STACK (MONGODB/MYSQL,EXPRESS,REACT,NODEJS)**
 
 - 📝my [website](nabinsaud.com.np)
 
