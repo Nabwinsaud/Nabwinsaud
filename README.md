@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabwinsaud&label=Profile%20views&color=0e75b6&style=flat" alt="nabwinsaud" /> </p>
 
-- 🔭 I’m currently working on **Modern technology such as React ,Nodejs ,TypesScript ,MongoDB , MySql, ....**
-- 🔭 I learn a lot of languages but main focus is on  **Front and backend technologies**
-- 🌱 I’m currently learning and explpring **MERN STACK (MONGODB/MYSQL,EXPRESS,REACT,NODEJS)**
+- 🔭 I’m currently working on **Modern technology such as React ,Nodejs,Nextjs,TypesScript ,MongoDB , MySql, ....**
+- 🔭 I learn a lot of languages but main focus is on  **Front**
+- 🌱 I’m currently learning and exploring **MERN STACK (MONGODB/MYSQL,EXPRESS,REACT,NODEJS) Nextjs**
 
 - 📝my [website](nabinsaud.com.np)
 
