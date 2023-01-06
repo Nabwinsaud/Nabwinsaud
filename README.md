@@ -19,6 +19,9 @@
 
 - ⚡ Fun fact ** passionate about new and trending technology .**
 
+<div align="right">
+<a href="https://app.daily.dev/Nabwin"><img src="https://api.daily.dev/devcards/26e48f1229f94337a79891c867b5d966.png?r=dip" width="400" alt="Nabin Saud's Dev Card"/></a>
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/coding.hustles/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/coding.hustles/" height="30" width="40" /></a>
