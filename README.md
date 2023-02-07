@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi there👋, I'm Nabin</h1>
-<h3 align="center">Talk less do more</h3>
+<h3 align="center"></h3>
 <h3 align="center">A Passionate enthusiastic Self taught programmer trying to become a Full stack developer.</h3>
 <h3 align="center"> Learning ,exploring and tutoring people </h3>
 
