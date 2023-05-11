@@ -35,7 +35,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabwinsaud&show_icons=true&locale=en&layout=compact" alt="nabwinsaud" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabwinsaud&show_icons=true&locale=en" alt="nabwinsaud" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabwinsaud&show_icons=true&locale=en" alt="nabwinsaud" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=nabwinsaud&show_icons=true&locale=en" alt="nabwinsaud" /></p>
+
 
 
 <!--
