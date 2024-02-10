@@ -8,8 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabwinsaud&label=Profile%20views&color=0e75b6&style=flat" alt="nabwinsaud" /> </p>
 
-- 🔭 I’m currently working on **Modern technology such as React ,Nodejs,Nextjs,TypesScript ,MongoDB , MySql, ....**
-- 🌱 I’m currently working  on **MERN STACK (MONGODB/MYSQL,EXPRESS,REACT,NODEJS) Nextjs**
+- 🔭 I’m currently working on **Modern technology such as React ,Nodejs,Nextjs,TypesScript ,MongoDB , MySql, .... Microservices**
+- 🌱 I’m currently working  on **MERN STACK (MONGODB/MYSQL,POSTGRESQL,EXPRESS,REACT,NODEJS) Nextjs,Graphql**
 
 - ✅ Have a Project to work on ? **MERN + React or Nextjs mail me**
 
