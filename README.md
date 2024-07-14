@@ -24,7 +24,8 @@
 - ⚡ Fun fact ** passionate about new and trending technology .**
 
 <div align="right">
-<a href="https://app.daily.dev/Nabwin"><img src="https://api.daily.dev/devcards/26e48f1229f94337a79891c867b5d966.png?r=dip" width="400" alt="Nabin Saud's Dev Card"/></a>
+<a href="https://app.daily.dev/nabwinsaud"><img src="https://api.daily.dev/devcards/v2/X5HOWMQGY0I3PuMHiav2k.png?type=default&r=84p" width="356" alt="Nabin Saud's Dev Card"/></a>
+
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
