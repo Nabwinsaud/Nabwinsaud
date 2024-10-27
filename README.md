@@ -3,13 +3,13 @@
 
 <h1 align="center">Hi there👋, I'm Nabin</h1>
 <h3 align="center"></h3>
-<h3 align="center">A Full stack developer.</h3>
+<h3 align="center">Full stack developer.</h3>
 <h3 align="center"> Building,Learning , Iterating  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabwinsaud&label=Profile%20views&color=0e75b6&style=flat" alt="nabwinsaud" /> </p>
 
-- 🔭 I’m currently working on **Modern technology such as React ,Nodejs,Nextjs,TypesScript Postgres, ,MongoDB , MySql, Go .... Microservices**
-- 🌱 I’m currently working  on  (MONGODB/MYSQL,POSTGRESQL,EXPRESS,REACT,NODEJS) Nextjs,Graphql, Netsjs**
+- 🔭 I’m currently working on **Modern technology such as React ,Nodejs,TypesScript Postgres, Go .... Microservices**
+- 🌱 I’m currently working  on  (POSTGRES,REACT,NODEJS (Nestjs) **
 -  🌱 I’m currently learning and exploring     **Golang , System Design Devops **
 
 - ✅ Have a Project to work on ? **mail me**
