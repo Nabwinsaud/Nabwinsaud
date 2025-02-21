@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabwinsaud&label=Profile%20views&color=0e75b6&style=flat" alt="nabwinsaud" /> </p>
 
 - 🔭 I’m currently working on **Modern technology such as React ,Nodejs,TypesScript Postgres, Go .... Microservices**
-- 🌱 I’m currently working  on  (POSTGRES,REACT,NODEJS (Nestjs) **
+- 🌱 I’m currently working  on  (POSTGRES,REACT,NODEJS (Nestjs),GO **
 -  🌱 I’m currently learning and exploring     **Golang , System Design Devops **
 
 - ✅ Have a Project to work on ? **mail me**
