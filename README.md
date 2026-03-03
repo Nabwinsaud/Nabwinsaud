@@ -15,7 +15,7 @@ Backend engineer who ships. I build scalable systems with Go and Node.js, and I'
 - System design and distributed systems
 - AI-powered development workflows
 - DevOps practices and cloud infrastructure
-- Building with AI tools (Claude, GitHub Copilot, and more)
+- Building with AI tools (Claude, Opencode ,GitHub Copilot, and more)
 
 ## 💼 Open to Collaboration
 
