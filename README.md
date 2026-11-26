@@ -3,13 +3,19 @@
 Software engineer. I build and ship products end to end. After hours, I build the
 harnesses that let AI agents do the same.
 
-```text
-┌─ claude ─────────────┬─ nvim ───────────────┐
-│ agent working on     │ reading the diff     │
-│ KAN-3 in a worktree  │ it just wrote        │
-├─ forgeline run ──────┼─ git ────────────────┤
-│ review → approve     │ PR #12 merged ✓      │
-└──────────────────────┴──────────────────────┘
+```console
+$ whoami
+software engineer by day, harness builder by night
+
+$ forgeline run
+  intake ✓  spec ✓  build ✓  tests ✓  review ✓  merge ✓
+  KAN-2 shipped while I was making tea
+
+$ git log --author="me" --since="6pm"
+  fatal: too many commits, go to sleep
+
+$ sleep 8h
+  zsh: sleep: 3 agents still running
 ```
 
 ## After hours
