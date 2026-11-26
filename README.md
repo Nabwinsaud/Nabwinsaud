@@ -1,7 +1,7 @@
 # Nabin Saud
 
-Software engineer from Kathmandu. I build products end to end: APIs in Go and TypeScript, frontends in
-React and Next.js, PostgreSQL underneath. After hours, I build harnesses for AI agents and tools for the terminal.
+Software engineer from Kathmandu. I build and ship products end to end. After hours, I build the
+harnesses that let AI agents do the same.
 
 ```text
 ┌─ claude ─────────────┬─ nvim ───────────────┐
@@ -28,7 +28,7 @@ npm create forgeline      # set it up in any repo
 - **Agents as teammates, with limits.** Claude Code, Codex, OpenCode, each in its own worktree with
   its own tools. Reviewers that can't edit. Builders that can't merge.
 - **Boring guardrails win.** Tests that gate, policy in code, the commit SHA that passed is the one that ships.
-- **Full stack by day.** Go, TypeScript (Node, NestJS), React, Next.js, PostgreSQL.
+- **Product engineer by day.** Frontend to database, whatever the problem needs.
 
 ## Thinking about
 
