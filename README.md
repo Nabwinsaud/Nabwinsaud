@@ -1,43 +1,58 @@
-# Hey, I'm Nabin 👋
+# Nabin Saud
 
-Backend engineer who ships. I build scalable systems with Go and Node.js, and I'm not afraid to jump into the frontend when needed. Leveraging AI to move fast and build better.
+I build harnesses for AI agents, and tools for people who live in the terminal. Kathmandu, Nepal.
 
-## 🚀 What I'm Building With
+```text
+┌─ claude ─────────────┬─ nvim ───────────────┐
+│ agent working on     │ reading the diff     │
+│ KAN-3 in a worktree  │ it just wrote        │
+├─ forgeline run ──────┼─ git ────────────────┤
+│ review → approve     │ PR #12 merged ✓      │
+└──────────────────────┴──────────────────────┘
+```
 
-**Backend:** Go, Node.js (NestJS), TypeScript  
-**Frontend:** React, Next.js  
-**Database:** PostgreSQL, MongoDB  
-**Architecture:** Microservices, RESTful APIs, System Design  
-**AI Tools:** Claude, GitHub Copilot, AI-assisted development
+Most days look like that: panes in Rex, Neovim, a couple of agents
+running next to me. I'm less excited about "AI writes my code" than about everything *around* the agent:
+the gates, hooks, state machines and review loops that turn its output into something you'd actually
+merge.
 
-## 🌱 Currently Exploring
+## Now
 
-- System design and distributed systems
-- AI-powered development workflows
-- DevOps practices and cloud infrastructure
-- Building with AI tools (Claude, Opencode ,GitHub Copilot, and more)
+**[Forgeline](https://github.com/Nabwinsaud/forgeline)**: an agentic software factory for Claude Code.
+A ticket goes in. Out come a spec, code, tests, a security pass, a deterministic gate, parallel reviewers
+and a PR, with the merge policy written in code. Agents judge, code decides.
 
-## 💼 Open to Collaboration
+```sh
+npm create forgeline      # set it up in any repo
+```
 
-Have an interesting project? Let's talk: **nabinsaud2059@gmail.com**
+## Things I've built
 
-## 🔗 Connect
+| | |
+|---|---|
+| [forgeline](https://github.com/Nabwinsaud/forgeline) | ticket → shipped feature with Claude Code agents, guard hooks and a gate they can't edit |
+| [mantra](https://github.com/Nabwinsaud/mantra) | keyboard-first PostgreSQL IDE for the terminal |
+| [standup](https://github.com/Nabwinsaud/standup) | standup reports from your git history, across repos, with AI summaries |
+| [paisa](https://github.com/Nabwinsaud/paisa) | one SDK for Nepali payment gateways (eSewa, Khalti), plus a NestJS adapter |
+| [nvim-config](https://github.com/Nabwinsaud/nvim-config) | the editor setup behind all of it |
+| [mac-tapper](https://github.com/Nabwinsaud/mac-tapper) | knock on your MacBook, it makes a sound. Because why not |
 
-[![Website](https://img.shields.io/badge/🌐_nabinsaud.com.np-000000?style=for-the-badge)](https://nabinsaud.com.np)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NabwinSaud)
+## How I work
 
-## 📊 GitHub Stats
+- **Terminal first.** Rex for sessions and panes, Neovim, CLIs over dashboards.
+- **Agents as teammates, with limits.** Claude Code, Codex, OpenCode, each in its own worktree with
+  its own tools. Reviewers that can't edit. Builders that can't merge.
+- **Boring guardrails win.** Tests that gate, policy in code, the commit SHA that passed is the one that ships.
+- **Still a backend engineer underneath.** Go, TypeScript (Node, NestJS), PostgreSQL.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabwinsaud&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</div>
+## Thinking about
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabwinsaud&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
+- where the gate should live so an agent with a shell can't route around it
+- review loops between agents that converge instead of nitpicking forever
+- writing business rules down so agents follow them instead of guessing
 
----
+## Say hi
 
-<div align="center">
-  <i>Building, Learning, Iterating</i>
-</div>
+[nabinsaud.com.np](https://nabinsaud.com.np) · [@NabwinSaud](https://x.com/NabwinSaud) · nabinsaud2059@gmail.com
+
+If you're building agent harnesses too, I'd like to compare notes.
