@@ -1,7 +1,7 @@
 # Nabin Saud
 
-Software engineer from Kathmandu. I ship backend systems in Go and TypeScript, and these days I spend
-most of my time building the harnesses that let AI agents ship them too.
+Software engineer from Kathmandu. I build products end to end: APIs in Go and TypeScript, frontends in
+React and Next.js, PostgreSQL underneath. After hours, I build harnesses for AI agents and tools for the terminal.
 
 ```text
 ┌─ claude ─────────────┬─ nvim ───────────────┐
@@ -12,12 +12,12 @@ most of my time building the harnesses that let AI agents ship them too.
 └──────────────────────┴──────────────────────┘
 ```
 
-Most days look like that: panes in Rex, Neovim, a couple of agents
+Most evenings look like that: panes in Rex, Neovim, a couple of agents
 running next to me. I'm less excited about "AI writes my code" than about everything *around* the agent:
 the gates, hooks, state machines and review loops that turn its output into something you'd actually
 merge.
 
-## Now
+## After hours
 
 **[Forgeline](https://github.com/Nabwinsaud/forgeline)**: an agentic software factory for Claude Code.
 A ticket goes in. Out come a spec, code, tests, a security pass, a deterministic gate, parallel reviewers
@@ -33,7 +33,7 @@ npm create forgeline      # set it up in any repo
 - **Agents as teammates, with limits.** Claude Code, Codex, OpenCode, each in its own worktree with
   its own tools. Reviewers that can't edit. Builders that can't merge.
 - **Boring guardrails win.** Tests that gate, policy in code, the commit SHA that passed is the one that ships.
-- **Still a backend engineer underneath.** Go, TypeScript (Node, NestJS), PostgreSQL.
+- **Full stack by day.** Go, TypeScript (Node, NestJS), React, Next.js, PostgreSQL.
 
 ## Thinking about
 
