@@ -12,11 +12,6 @@ React and Next.js, PostgreSQL underneath. After hours, I build harnesses for AI 
 └──────────────────────┴──────────────────────┘
 ```
 
-Most evenings look like that: panes in Rex, Neovim, a couple of agents
-running next to me. I'm less excited about "AI writes my code" than about everything *around* the agent:
-the gates, hooks, state machines and review loops that turn its output into something you'd actually
-merge.
-
 ## After hours
 
 **[Forgeline](https://github.com/Nabwinsaud/forgeline)**: an agentic software factory for Claude Code.
