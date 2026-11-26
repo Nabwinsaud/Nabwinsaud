@@ -42,6 +42,6 @@ npm create forgeline      # set it up in any repo
 
 ## Say hi
 
-[nabinsaud.com.np](https://nabinsaud.com.np) · [@NabwinSaud](https://x.com/NabwinSaud) · nabinsaud2059@gmail.com
+[nabinsaud.com.np](https://nabinsaud.com.np) · [@NabwinSaud](https://x.com/NabwinSaud) · talkwithnabin@gmail.com
 
 If you're building agent harnesses too, I'd like to compare notes.
