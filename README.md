@@ -32,7 +32,6 @@ npm create forgeline      # set it up in any repo
 |---|---|
 | [forgeline](https://github.com/Nabwinsaud/forgeline) | ticket → shipped feature with Claude Code agents, guard hooks and a gate they can't edit |
 | [mantra](https://github.com/Nabwinsaud/mantra) | keyboard-first PostgreSQL IDE for the terminal |
-| [standup](https://github.com/Nabwinsaud/standup) | standup reports from your git history, across repos, with AI summaries |
 | [paisa](https://github.com/Nabwinsaud/paisa) | one SDK for Nepali payment gateways (eSewa, Khalti), plus a NestJS adapter |
 | [nvim-config](https://github.com/Nabwinsaud/nvim-config) | the editor setup behind all of it |
 | [mac-tapper](https://github.com/Nabwinsaud/mac-tapper) | knock on your MacBook, it makes a sound. Because why not |
