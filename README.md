@@ -3,20 +3,7 @@
 Software engineer. I build and ship products end to end. After hours, I build the
 harnesses that let AI agents do the same.
 
-```console
-$ whoami
-software engineer by day, harness builder by night
-
-$ forgeline run
-  intake ✓  spec ✓  build ✓  tests ✓  review ✓  merge ✓
-  KAN-2 shipped while I was making tea
-
-$ git log --author="me" --since="6pm"
-  fatal: too many commits, go to sleep
-
-$ sleep 8h
-  zsh: sleep: 3 agents still running
-```
+<img src="terminal.svg" alt="$ whoami: software engineer by day, harness builder by night" width="100%">
 
 ## After hours
 
