@@ -1,6 +1,7 @@
 # Nabin Saud
 
-I build harnesses for AI agents, and tools for people who live in the terminal. Kathmandu, Nepal.
+Software engineer from Kathmandu. I ship backend systems in Go and TypeScript, and these days I spend
+most of my time building the harnesses that let AI agents ship them too.
 
 ```text
 ┌─ claude ─────────────┬─ nvim ───────────────┐
