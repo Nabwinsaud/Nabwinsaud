@@ -1,6 +1,6 @@
 # Nabin Saud
 
-Software engineer from Kathmandu. I build and ship products end to end. After hours, I build the
+Software engineer. I build and ship products end to end. After hours, I build the
 harnesses that let AI agents do the same.
 
 ```text
